@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T07:20:00.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="d9Oplcmg53GYz5g_nukA" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-14T07:35:33.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="ZgNowYYL1P3pTJlzcwgD" version="14.6.0" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="981" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1746" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,10 +16,10 @@
             <mxPoint x="437" y="215.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12" value="Definiciones" style="rounded=1;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;arcSize=50;shadow=0;fillColor=#2E597A;" parent="1" vertex="1">
+        <mxCell id="12" value="DEFINICIONES" style="rounded=1;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;arcSize=50;shadow=0;fillColor=#2E597A;" parent="1" vertex="1">
           <mxGeometry x="749.9999999999999" y="335.5" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="Términos" style="rounded=1;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=15;arcSize=50;fillColor=#2E597A;" parent="1" vertex="1">
+        <mxCell id="13" value="TÉRMINOS" style="rounded=1;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=15;arcSize=50;fillColor=#2E597A;" parent="1" vertex="1">
           <mxGeometry x="120" y="335.5" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="48" value="Integridad" style="rounded=1;strokeColor=#23445d;fontStyle=1;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;" parent="1" vertex="1">
@@ -35,17 +35,6 @@
           <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
             <mxPoint x="-23" y="235.5" as="sourcePoint" />
             <mxPoint x="77" y="135.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="67" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="13" edge="1">
-          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
-            <mxPoint x="-23" y="235.5" as="sourcePoint" />
-            <mxPoint x="215" y="510" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="215" y="480" />
-              <mxPoint x="230" y="480" />
-              <mxPoint x="202" y="575.5" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="82" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="41" edge="1">
@@ -147,8 +136,8 @@
         <mxCell id="daP6FJy6vD_I7f9EfKvS-149" value="Auditoría" style="rounded=1;strokeColor=#23445d;fontStyle=1;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;" vertex="1" parent="1">
           <mxGeometry x="120" y="510" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="daP6FJy6vD_I7f9EfKvS-151" value="proceso sistemático, independiente y documentado para obtener evidencias de&#xa;la auditoría y evaluarlas de manera objetiva con el fin de determinar el grado en que se cumplen los criterios de auditoría." style="rounded=1;strokeColor=#23445d;fontStyle=0;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;labelBackgroundColor=none;fontColor=#121212;whiteSpace=wrap;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="550" y="490" width="550" height="100" as="geometry" />
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-151" value="proceso sistemático, independiente y documentado para obtener evidencias de&#xa;la auditoría y evaluarlas de manera objetiva con el fin de determinar el grado en que se cumplen los criterios de auditoría." style="rounded=1;strokeColor=#23445d;fontStyle=0;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;labelBackgroundColor=none;fontColor=#121212;whiteSpace=wrap;labelBorderColor=none;spacingTop=0;spacingBottom=0;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="570" y="490" width="550" height="100" as="geometry" />
         </mxCell>
         <mxCell id="daP6FJy6vD_I7f9EfKvS-155" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" edge="1" parent="1">
           <mxGeometry x="-90" y="50" width="100" height="100" as="geometry">
@@ -162,10 +151,10 @@
         <mxCell id="daP6FJy6vD_I7f9EfKvS-156" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=18;fontFamily=Tahoma;fontColor=#121212;" vertex="1" parent="1">
           <mxGeometry x="560" y="1240" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="daP6FJy6vD_I7f9EfKvS-158" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0;entryX=0.536;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="daP6FJy6vD_I7f9EfKvS-151">
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-158" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry x="606.5" y="135.5" width="100" height="100" as="geometry">
             <mxPoint x="844.5" y="415.5" as="sourcePoint" />
-            <mxPoint x="845" y="480" as="targetPoint" />
+            <mxPoint x="845" y="470" as="targetPoint" />
             <Array as="points">
               <mxPoint x="844.5" y="480" />
               <mxPoint x="859.5" y="480" />
@@ -189,6 +178,87 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1458.83" y="415.5" as="sourcePoint" />
             <mxPoint x="1459" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-165" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Tahoma;fontSize=65;fontColor=#121212;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="535.5" as="sourcePoint" />
+            <mxPoint x="540" y="535.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-166" value="Criterios de Auditoria" style="rounded=1;strokeColor=#23445d;fontStyle=1;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;" vertex="1" parent="1">
+          <mxGeometry x="120" y="630" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-167" value="conjunto de políticas, procedimientos o requisitos usados como referencia frente a la cual se compara la evidencia de la auditoría. Los criterios de auditoría son requisitos legales, los términos cumple o no cumple se utilizan a menudo en los hallazgos de auditoría." style="rounded=1;strokeColor=#23445d;fontStyle=0;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;labelBackgroundColor=none;fontColor=#121212;whiteSpace=wrap;labelBorderColor=none;spacingLeft=9;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="570" y="610" width="550" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-168" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Tahoma;fontSize=65;fontColor=#121212;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="654.29" as="sourcePoint" />
+            <mxPoint x="540" y="654.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-169" value="Evidencia de la auditoría" style="rounded=1;strokeColor=#23445d;fontStyle=1;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;" vertex="1" parent="1">
+          <mxGeometry x="120" y="750" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-170" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Tahoma;fontSize=65;fontColor=#121212;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="779.29" as="sourcePoint" />
+            <mxPoint x="540" y="779.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-171" value="registros, son las declaración de los hechos o de otra información que sea necesaria según los criterios de la auditoría y que se puede verificar. La evidencia de la auditoría puede ser cualitativa o cuantitativa." style="rounded=1;strokeColor=#23445d;fontStyle=0;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;labelBackgroundColor=none;fontColor=#121212;whiteSpace=wrap;labelBorderColor=none;spacingLeft=9;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="570" y="730" width="550" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-173" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" edge="1" parent="1">
+          <mxGeometry x="-1300" y="104.5" width="100" height="100" as="geometry">
+            <mxPoint x="90" y="584.5" as="sourcePoint" />
+            <mxPoint x="115" y="544.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="504.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-174" value="" style="endArrow=none;html=1;fontFamily=Tahoma;fontSize=65;fontColor=#121212;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="544.5" as="sourcePoint" />
+            <mxPoint x="90" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-175" value="" style="endArrow=none;html=1;fontFamily=Tahoma;fontSize=65;fontColor=#121212;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="490" as="sourcePoint" />
+            <mxPoint x="220" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-176" value="" style="endArrow=none;html=1;fontFamily=Tahoma;fontSize=65;fontColor=#121212;strokeWidth=2;exitX=0.532;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="440" as="sourcePoint" />
+            <mxPoint x="220" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-177" value="Hallazgos de la auditoría" style="rounded=1;strokeColor=#23445d;fontStyle=1;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;" vertex="1" parent="1">
+          <mxGeometry x="120" y="870" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-178" value="resultados de la evaluación de la evidencia de la auditoría recopilada frente a los criterios de auditoría. El hallazgo de la auditoría se puede indicar la conformidad o la no conformidad, se puede conducir la identificación de oportunidades para la mejora o para registrar las buenas prácticas. " style="rounded=1;strokeColor=#23445d;fontStyle=0;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;labelBackgroundColor=none;fontColor=#121212;whiteSpace=wrap;labelBorderColor=none;spacingLeft=9;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="570" y="850" width="550" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-179" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Tahoma;fontSize=65;fontColor=#121212;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="899.29" as="sourcePoint" />
+            <mxPoint x="540" y="899.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-180" value="Conclusiones de la auditoría" style="rounded=1;strokeColor=#23445d;fontStyle=1;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;" vertex="1" parent="1">
+          <mxGeometry x="105" y="990" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-181" value="resultado de una auditoría, tras considerar los objetivos de la auditoría y todos los hallazgos de la auditoría." style="rounded=1;strokeColor=#23445d;fontStyle=0;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;labelBackgroundColor=none;fontColor=#121212;whiteSpace=wrap;labelBorderColor=none;spacingLeft=9;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="570" y="970" width="550" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-182" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Tahoma;fontSize=65;fontColor=#121212;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="1019.29" as="sourcePoint" />
+            <mxPoint x="550" y="1019.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
