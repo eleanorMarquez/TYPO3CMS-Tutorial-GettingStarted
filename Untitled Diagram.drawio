@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T07:35:33.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="ZgNowYYL1P3pTJlzcwgD" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-14T07:58:27.270Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="xEXQnqrUBQrbSSrYqhzx" version="14.6.0" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="1746" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,9 +148,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="daP6FJy6vD_I7f9EfKvS-156" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=18;fontFamily=Tahoma;fontColor=#121212;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1240" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="daP6FJy6vD_I7f9EfKvS-158" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry x="606.5" y="135.5" width="100" height="100" as="geometry">
             <mxPoint x="844.5" y="415.5" as="sourcePoint" />
@@ -227,14 +224,14 @@
         </mxCell>
         <mxCell id="daP6FJy6vD_I7f9EfKvS-175" value="" style="endArrow=none;html=1;fontFamily=Tahoma;fontSize=65;fontColor=#121212;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="490" as="sourcePoint" />
-            <mxPoint x="220" y="490" as="targetPoint" />
+            <mxPoint x="90" y="460" as="sourcePoint" />
+            <mxPoint x="220" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="daP6FJy6vD_I7f9EfKvS-176" value="" style="endArrow=none;html=1;fontFamily=Tahoma;fontSize=65;fontColor=#121212;strokeWidth=2;exitX=0.532;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="440" as="sourcePoint" />
-            <mxPoint x="220" y="490" as="targetPoint" />
+            <mxPoint x="220" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="daP6FJy6vD_I7f9EfKvS-177" value="Hallazgos de la auditoría" style="rounded=1;strokeColor=#23445d;fontStyle=1;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;" vertex="1" parent="1">
@@ -260,6 +257,111 @@
             <mxPoint x="350" y="1019.29" as="sourcePoint" />
             <mxPoint x="550" y="1019.29" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-183" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" edge="1" parent="1">
+          <mxGeometry x="-1300" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="100" y="460" as="sourcePoint" />
+            <mxPoint x="115" y="665.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="595.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-184" value="Cliente de la auditoría" style="rounded=1;strokeColor=#23445d;fontStyle=1;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1110" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-185" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Tahoma;fontSize=65;fontColor=#121212;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="1140" as="sourcePoint" />
+            <mxPoint x="550" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-186" value="organización o persona que solicita una auditoría. Si se produce una auditoría interna, el cliente de la auditoría puede ser auditado. Las solicitudes de una auditoría externa pueden venir de fuentes como autoridades, partes contratantes o clientes potenciales." style="rounded=1;strokeColor=#23445d;fontStyle=0;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;labelBackgroundColor=none;fontColor=#121212;whiteSpace=wrap;labelBorderColor=none;spacingLeft=9;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1090" width="550" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-187" value="Auditado" style="rounded=1;strokeColor=#23445d;fontStyle=1;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1240" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-188" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Tahoma;fontSize=65;fontColor=#121212;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="1279.5" as="sourcePoint" />
+            <mxPoint x="550" y="1279.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-189" value="organización que es auditada." style="rounded=1;strokeColor=#23445d;fontStyle=0;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;labelBackgroundColor=none;fontColor=#121212;whiteSpace=wrap;labelBorderColor=none;spacingLeft=9;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1220" width="550" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-190" value="Auditor" style="rounded=1;strokeColor=#23445d;fontStyle=1;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1370" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-192" value=" persona que lleva a cabo una auditoría." style="rounded=1;strokeColor=#23445d;fontStyle=0;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;labelBackgroundColor=none;fontColor=#121212;whiteSpace=wrap;labelBorderColor=none;spacingLeft=9;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1350" width="550" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-193" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Tahoma;fontSize=65;fontColor=#121212;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="1399.5" as="sourcePoint" />
+            <mxPoint x="550" y="1399.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-194" value="Equipo Auditor" style="rounded=1;strokeColor=#23445d;fontStyle=1;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1490" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-195" value="uno o más auditores que llevan a cabo una auditoría, con el apoyo, si es necesario, de expertos técnicos. El auditor del equipo será el líder del mismo. El equipo auditor puede incluir auditores en formación." style="rounded=1;strokeColor=#23445d;fontStyle=0;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;labelBackgroundColor=none;fontColor=#121212;whiteSpace=wrap;labelBorderColor=none;spacingLeft=9;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1470" width="550" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-196" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Tahoma;fontSize=65;fontColor=#121212;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="1519.17" as="sourcePoint" />
+            <mxPoint x="550" y="1519.17" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-197" value="Experto Técnico" style="rounded=1;strokeColor=#23445d;fontStyle=1;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1610" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-198" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Tahoma;fontSize=65;fontColor=#121212;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="1639.1700000000005" as="sourcePoint" />
+            <mxPoint x="550" y="1639.1700000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-199" value="es la persona que ofrece todos sus conocimientos o experiencias al equipo de auditores. La experiencia que se especifican para relacionarlos con la empresa, el proceso de auditoría, el idioma o la orientación cultural. Un experto técnico no actúa como un auditor en el equipo." style="rounded=1;strokeColor=#23445d;fontStyle=0;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;labelBackgroundColor=none;fontColor=#121212;whiteSpace=wrap;labelBorderColor=none;spacingLeft=9;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1590" width="550" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-200" value="Observador" style="rounded=1;strokeColor=#23445d;fontStyle=1;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1720" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-201" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Tahoma;fontSize=65;fontColor=#121212;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="1749.1700000000005" as="sourcePoint" />
+            <mxPoint x="550" y="1749.1700000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-202" value="es la persona que observa al equipo auditor pero que no audita. Un observador no es parte del equipo auditor y no influye ni interfiere en la realización de la auditoría. El observador puede asignarse al auditado, una autoridad reglamentaria u otra parte interesada que testifica la auditoría." style="rounded=1;strokeColor=#23445d;fontStyle=0;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;labelBackgroundColor=none;fontColor=#121212;whiteSpace=wrap;labelBorderColor=none;spacingLeft=9;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1710" width="550" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-203" value="Guía" style="rounded=1;strokeColor=#23445d;fontStyle=1;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1840" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-204" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Tahoma;fontSize=65;fontColor=#121212;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="1870.0000000000005" as="sourcePoint" />
+            <mxPoint x="550" y="1870.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-205" value=" persona que se dedica a que el auditado pueda asistir al equipo auditor." style="rounded=1;strokeColor=#23445d;fontStyle=0;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;labelBackgroundColor=none;fontColor=#121212;whiteSpace=wrap;labelBorderColor=none;spacingLeft=9;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1830.75" width="550" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-206" value="Programa de auditoría" style="rounded=1;strokeColor=#23445d;fontStyle=1;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1980" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-207" value="persona que se dedica a que el auditado pueda asistir al equipo auditor." style="rounded=1;strokeColor=#23445d;fontStyle=0;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;labelBackgroundColor=none;fontColor=#121212;whiteSpace=wrap;labelBorderColor=none;spacingLeft=9;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1960" width="550" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-208" value="Alcance de la auditoría" style="rounded=1;strokeColor=#23445d;fontStyle=1;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;" vertex="1" parent="1">
+          <mxGeometry x="105" y="2110" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daP6FJy6vD_I7f9EfKvS-209" value="persona que se dedica a que el auditado pueda asistir al equipo auditor." style="rounded=1;strokeColor=#23445d;fontStyle=0;fontFamily=Tahoma;fontSize=14;fillColor=#bac8d3;labelBackgroundColor=none;fontColor=#121212;whiteSpace=wrap;labelBorderColor=none;spacingLeft=9;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="570" y="2090" width="550" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
